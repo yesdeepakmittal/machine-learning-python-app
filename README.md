@@ -1,2 +1,2 @@
 # Data-analysis
-This repo contains titanic dataset and the analysis for the prediction of survived people.
+This repository contains titanic dataset and the analysis for the prediction of survived people.
